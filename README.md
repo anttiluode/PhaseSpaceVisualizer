@@ -1,5 +1,7 @@
 # PhaseSpaceVisualizer
 
+![Phase Space Visualization](phasespace.png)
+
 **PhaseSpaceVisualizer** is a Python application that captures audio input and visualizes it in a dynamic phase space using Pygame. Customize trail length, color schemes, and dot size to create mesmerizing visual effects.
 
 ## Installation
